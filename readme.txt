@@ -1,4 +1,4 @@
-The cleaningdataproject.R script performs the actions specified in the assignment
+The run_analysis.r script performs the actions specified in the assignment
 
 First the data is imported. Your working directory should contain the files needed for the analysis. 
 
